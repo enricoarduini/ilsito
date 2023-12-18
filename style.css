@@ -2,30 +2,19 @@ body {
     font-family: 'HalyardDis_ISIAU Bk';
 }
 h1 {
-color: silver;
 }
 body {
-    background-color: pink;
 }
 h3 {
-    background-color: silver;
-    color: blueviolet;
 }
 p
 {
-    background-color: beige;
-    color: #ff0000;
 }
 h4 {
-    color: #9C3924;
 }
 a {
-    color: yellowgreen;
-    text-decoration: none;
 }
 a:hover {
-    color: aqua;
-    background-color: #ff0000;
     text-decoration: underline;
     font-weight: 700;
     font-style: italic;
