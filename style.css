@@ -20,7 +20,6 @@ a {
 }
 a:hover {
     color: black;
-    text-decoration: underline;
     font-weight: 700;
 }
 a:visited {
