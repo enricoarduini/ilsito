@@ -2,6 +2,7 @@ body {
     color: black;
     font-family: 'HalyardDis_ISIAU Bk', 'Arial', sans-serif;
     font-size: 28px;
+    display: flex;
 }
 h1 {
 }
