@@ -3,37 +3,30 @@ body {
 }
 h1 {
 color: silver;
-      font-family: 'HalyardDis_ISIAU Bk';
 }
 body {
     background-color: pink;
-    font-family: 'HalyardDis_ISIAU Bk';
 }
 h3 {
     background-color: silver;
     color: blueviolet;
-    font-family: 'HalyardDis_ISIAU Bk';
 }
 p
 {
     background-color: beige;
     color: #ff0000;
-    font-family: 'HalyardDis_ISIAU Bk';
 }
 h4 {
     color: #9C3924;
-    font-family: 'HalyardDis_ISIAU Bk';
 }
 a {
     color: yellowgreen;
     text-decoration: none;
-    font-family: 'HalyardDis_ISIAU Bk';
-    }
+}
 a:hover {
     color: aqua;
     background-color: #ff0000;
     text-decoration: underline;
     font-weight: 700;
     font-style: italic;
-    font-family: 'HalyardDis_ISIAU Bk';
 }
