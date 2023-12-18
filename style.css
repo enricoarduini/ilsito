@@ -13,6 +13,7 @@ p
 h4 {
 }
 a {
+    border-bottom: 1px solid black; /*shorthand*/
 }
 a:hover {
     text-decoration: underline;
