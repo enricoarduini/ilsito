@@ -16,7 +16,7 @@ a {
     border-bottom: 1px solid black; /*shorthand*/
 }
 a:hover {
+    color: black;
     text-decoration: underline;
     font-weight: 700;
-    font-style: italic;
 }
