@@ -1,0 +1,36 @@
+h1 {
+color: silver;
+    font-family:  'Roboto Mono', monospace;
+}
+body {
+    background-color: pink;
+    font-family: 'Roboto Mono', monospace;
+}
+h3 {
+    background-color: silver;
+    color: blueviolet;
+    font-family: 'Roboto Mono', monospace;
+}
+p
+{
+    background-color: beige;
+    color: #ff0000;
+    font-family: 'Roboto Mono', monospace;
+}
+h4 {
+    color: #9C3924;
+    font-family: 'Roboto Mono', monospace;
+}
+a {
+    color: yellowgreen;
+    text-decoration: none;
+    font-family: 'Roboto Mono', monospace;
+    }
+a:hover {
+    color: aqua;
+    background-color: #ff0000;
+    text-decoration: underline;
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'Roboto Mono', monospace;
+}
