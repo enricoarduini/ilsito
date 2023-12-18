@@ -1,5 +1,7 @@
 body {
-    font-family: 'HalyardDis_ISIAU Bk';
+    color: black;
+    font-family: 'HalyardDis_ISIAU Bk', 'Arial', sans-serif;
+    font-size: 28px;
 }
 h1 {
 }
