@@ -23,7 +23,7 @@ a:hover {
     font-weight: 700;
 }
 div {
-    color: aquamarine;
+    background-color: aquamarine;
 }
 a:visited {
     color: black;
