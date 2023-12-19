@@ -8,12 +8,12 @@ body {
 }
 
 h3 { 
-    font-size: 20px;
+    font-size: 1.3em;
     margin: 0;
 }
 
 h4 {
-    font-size: 20px;
+    font-size: 1.3em;
     margin: 0;
 }
 
@@ -38,4 +38,13 @@ div.uno, div.due, div.tre, div.quattro {
 
 img {
     width: 100%;
+}
+
+div.due time {
+    font-size: 1.18em;
+}
+
+div.tre p {
+    font-size: 12px;
+    color: blue;
 }
