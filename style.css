@@ -1,43 +1,31 @@
 body {
     color: black;
     font-family: 'HalyardDis_ISIAU Bk', 'Arial', sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     display: flex;
+    padding: 0;
+    margin: 0;
 }
 
-h1 {
-    font-size: 14px;
-}
-
-h3 {
-    font-size: 14px;
-}
-p
-{
-    font-size: 12px;
-}
-h4 {
-    font-size: 14px;
-}
 a {
     border-bottom: 1px solid black; /*shorthand*/
     text-decoration: none;
 }
-a:hover {
-    color: black;
-    font-weight: 700;
-}
+
 a:visited {
     color: black;
     text-decoration: underline; 
 }
-div
-{
+
+div {
     width: 20%;
-    padding: 10px;
+    padding: 25px 5px 0 5px; /* top right bottom left */
 }
 
-img
-{
+div.uno, div.due, div.tre, div.quattro {
+    border-right: 1px solid black;
+}
+
+img {
     width: 100%;
 }
