@@ -4,16 +4,19 @@ body {
     font-size: 12px;
     display: flex;
 }
+
 h1 {
+    font-size: 14px;
 }
-body {
-}
+
 h3 {
+    font-size: 14px;
 }
 p
 {
 }
 h4 {
+    font-size: 14px;
 }
 a {
     border-bottom: 1px solid black; /*shorthand*/
