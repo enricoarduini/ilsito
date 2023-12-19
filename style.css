@@ -75,6 +75,9 @@ div.separatore {
 /* il codice che segue vale per tutti gli schermi la cui larghezza massima è 420 px*/
 @media screen and (max-width: 420px) {
     body {
-background-color: lime;
-    }
+    display: block;
+}
+    div {
+    width: 100%;
+}
 }
