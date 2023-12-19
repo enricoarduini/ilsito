@@ -15,8 +15,12 @@ h3 {
     margin: 0;
     font-weight: normal;
     position: fixed;
-    background-color: white;
-    width: calc(20% - 10px)
+    width: calc(20% - 10px);
+    padding-bottom: 20px;
+}
+
+time {
+    padding-top: 30px;
 }
 
 h4 {
