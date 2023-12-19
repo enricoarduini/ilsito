@@ -17,10 +17,11 @@ h3 {
     position: fixed;
     width: calc(20% - 10px);
     padding-bottom: 20px;
+    line-height: 1.2;
 }
 
 time {
-    padding-top: 30px;
+    padding-top: 50px;
 }
 
 h4 {
@@ -69,4 +70,11 @@ div {
 
 div.separatore {
     padding-top: 30px; 
+}
+
+/* il codice che segue vale per tutti gli schermi la cui larghezza massima è 420 px*/
+@media screen and (max-width: 420px) {
+    body {
+background-color: lime;
+    }
 }
