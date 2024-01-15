@@ -75,9 +75,11 @@ div.separatore {
 /* il codice che segue vale per tutti gli schermi la cui larghezza massima è 420 px*/
 @media screen and (max-width: 420px) {
     body {
-    display: block;
+    /*display: block;*/
+    width: calc(100vw * 5);
 }
-    div {
+    /*div {
     width: 100%;
-}
+   
+}*/
 }
